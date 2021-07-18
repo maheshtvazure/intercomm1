@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <a href='https://interappcomm2.azurewebsites.net'>Link to App2</a>
       </header>
     </div>
   );
