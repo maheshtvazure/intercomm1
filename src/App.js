@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <a href='https://interappcomm2.azurewebsites.net'>Link to App2</a>
+        <a href='https://20.62.245.79/app2'>Link to App2</a>
       </header>
     </div>
   );
